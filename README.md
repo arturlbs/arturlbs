@@ -1,8 +1,3 @@
-
-# 🔒 Access Is Denied
-
----
-
 ### 💻 Languages and Tools:
 
 <div>
